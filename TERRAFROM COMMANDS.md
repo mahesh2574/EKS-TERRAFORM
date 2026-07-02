@@ -1,5 +1,3 @@
----
-
 # Terraform Workflow
 
 ### 1. Check Terraform Version
